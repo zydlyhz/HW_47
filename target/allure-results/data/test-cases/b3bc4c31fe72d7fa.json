@@ -1,0 +1,91 @@
+{
+  "uid" : "b3bc4c31fe72d7fa",
+  "name" : "SignUpTest",
+  "fullName" : "core.AllureReportTest.SignUpTest",
+  "historyId" : "cc5d1fe6ea2d74c9a51f35faa60c78f9",
+  "time" : {
+    "start" : 1566344652653,
+    "stop" : 1566344653357,
+    "duration" : 704
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1566344647562,
+      "stop" : 1566344652604,
+      "duration" : 5042
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1566344654413,
+      "stop" : 1566344655024,
+      "duration" : 611
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "testClass",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "SignUpTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "HW_47"
+  }, {
+    "name" : "suite",
+    "value" : "SignUp Validation"
+  }, {
+    "name" : "subSuite",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "host",
+    "value" : "L-C02V267CHTD6"
+  }, {
+    "name" : "thread",
+    "value" : "15366@L-C02V267CHTD6.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3bc4c31fe72d7fa.json",
+  "parameterValues" : [ ]
+}

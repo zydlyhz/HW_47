@@ -1,0 +1,124 @@
+{
+  "uid" : "561b81d2d8a114f1",
+  "name" : "SignUpTest",
+  "fullName" : "core.AllureReportTest.SignUpTest",
+  "historyId" : "cc5d1fe6ea2d74c9a51f35faa60c78f9",
+  "time" : {
+    "start" : 1566344748628,
+    "stop" : 1566344749376,
+    "duration" : 748
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1566344743264,
+      "stop" : 1566344748574,
+      "duration" : 5310
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1566344750413,
+      "stop" : 1566344751030,
+      "duration" : 617
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "testClass",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "SignUpTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "HW_47"
+  }, {
+    "name" : "suite",
+    "value" : "SignUp Validation"
+  }, {
+    "name" : "subSuite",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "host",
+    "value" : "L-C02V267CHTD6"
+  }, {
+    "name" : "thread",
+    "value" : "15467@L-C02V267CHTD6.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7346f5f3500a0572",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566344652653,
+        "stop" : 1566344653357,
+        "duration" : 704
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "84121e91634e24b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566344652653,
+          "stop" : 1566344653357,
+          "duration" : 704
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "561b81d2d8a114f1.json",
+  "parameterValues" : [ ]
+}

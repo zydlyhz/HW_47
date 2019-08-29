@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "L-C02V267CHTD6",
+    "children" : [ {
+      "name" : "55621@L-C02V267CHTD6.main(1)",
+      "children" : [ {
+        "name" : "SignUp Page Validating",
+        "uid" : "470b40cc8bedd0a8",
+        "parentUid" : "c14bfe7c67d15589b8de0aabb9c4ee5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566421757187,
+          "stop" : 1566421757900,
+          "duration" : 713
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Confirmation Page Validating",
+        "uid" : "4ed2606b04bb4515",
+        "parentUid" : "c14bfe7c67d15589b8de0aabb9c4ee5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566421758006,
+          "stop" : 1566421758923,
+          "duration" : 917
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c14bfe7c67d15589b8de0aabb9c4ee5e"
+    } ],
+    "uid" : "8fb1fa2dc47b9c25f42b4fd1e0f58812"
+  } ]
+}

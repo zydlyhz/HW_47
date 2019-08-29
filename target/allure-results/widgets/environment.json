@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "QA" ],
+  "name" : "environment"
+}, {
+  "values" : [ "macOS 10.14" ],
+  "name" : "os"
+}, {
+  "values" : [ "Alex Moore" ],
+  "name" : "sdet"
+}, {
+  "values" : [ "Firefox 67.0" ],
+  "name" : "browser"
+}, {
+  "values" : [ "http://alex.academy" ],
+  "name" : "url"
+} ]

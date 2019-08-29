@@ -1,0 +1,323 @@
+{
+  "uid" : "567da2f009ffc037",
+  "name" : "SignUp Page Validating",
+  "fullName" : "core.AllureReportTest.SignUpTest",
+  "historyId" : "cc5d1fe6ea2d74c9a51f35faa60c78f9",
+  "time" : {
+    "start" : 1566419888323,
+    "stop" : 1566419889005,
+    "duration" : 682
+  },
+  "description" : "Web Elemets (4)",
+  "descriptionHtml" : "<p>Web Elemets (4)</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1566419883292,
+      "stop" : 1566419888275,
+      "duration" : 4983
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step # 01: Open Browser",
+      "time" : {
+        "start" : 1566419883317,
+        "stop" : 1566419888273,
+        "duration" : 4956
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "description" : "Web Elemets (4)",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step: Set Value",
+      "time" : {
+        "start" : 1566419888331,
+        "stop" : 1566419888425,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "by",
+        "value" : "By.id: id_fname"
+      }, {
+        "name" : "value",
+        "value" : "John"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step: Set Value",
+      "time" : {
+        "start" : 1566419888508,
+        "stop" : 1566419888578,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "by",
+        "value" : "By.id: id_lname"
+      }, {
+        "name" : "value",
+        "value" : "Smith"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step: Set Value",
+      "time" : {
+        "start" : 1566419888645,
+        "stop" : 1566419888728,
+        "duration" : 83
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "by",
+        "value" : "By.id: id_email"
+      }, {
+        "name" : "value",
+        "value" : "john_smith@gmail.com"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step: Set Value",
+      "time" : {
+        "start" : 1566419888796,
+        "stop" : 1566419888880,
+        "duration" : 84
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "by",
+        "value" : "By.id: id_phone"
+      }, {
+        "name" : "value",
+        "value" : "415 555-1212"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1566419890032,
+      "stop" : 1566419890634,
+      "duration" : 602
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step # 04: Close Browser",
+      "time" : {
+        "start" : 1566419890032,
+        "stop" : 1566419890634,
+        "duration" : 602
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "testClass",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "SignUpTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "HW_47"
+  }, {
+    "name" : "suite",
+    "value" : "SignUp Validation"
+  }, {
+    "name" : "subSuite",
+    "value" : "core.AllureReportTest"
+  }, {
+    "name" : "host",
+    "value" : "L-C02V267CHTD6"
+  }, {
+    "name" : "thread",
+    "value" : "52102@L-C02V267CHTD6.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "774043720d0606c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566419519415,
+        "stop" : 1566419520080,
+        "duration" : 665
+      }
+    }, {
+      "uid" : "b7b8bf406b4b9631",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566419256958,
+        "stop" : 1566419257645,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "f395a1915bd9f458",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566418698618,
+        "stop" : 1566418699311,
+        "duration" : 693
+      }
+    }, {
+      "uid" : "9c8c7f17c6549fd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566344770851,
+        "stop" : 1566344771683,
+        "duration" : 832
+      }
+    }, {
+      "uid" : "c5ab0e21cf88deca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566344748628,
+        "stop" : 1566344749376,
+        "duration" : 748
+      }
+    }, {
+      "uid" : "d3b29512b4e1a92a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566344652653,
+        "stop" : 1566344653357,
+        "duration" : 704
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "5bfc00a8bd5ad4eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566419519415,
+          "stop" : 1566419520080,
+          "duration" : 665
+        }
+      }, {
+        "uid" : "21995314083cc58a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566419256958,
+          "stop" : 1566419257645,
+          "duration" : 687
+        }
+      }, {
+        "uid" : "22150c574c749f6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566418698618,
+          "stop" : 1566418699311,
+          "duration" : 693
+        }
+      }, {
+        "uid" : "2c7f990122c31fc5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566344770851,
+          "stop" : 1566344771683,
+          "duration" : 832
+        }
+      }, {
+        "uid" : "561b81d2d8a114f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566344748628,
+          "stop" : 1566344749376,
+          "duration" : 748
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "567da2f009ffc037.json",
+  "parameterValues" : [ ]
+}

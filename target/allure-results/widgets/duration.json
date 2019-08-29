@@ -1,0 +1,21 @@
+[ {
+  "uid" : "470b40cc8bedd0a8",
+  "name" : "SignUp Page Validating",
+  "time" : {
+    "start" : 1566421757187,
+    "stop" : 1566421757900,
+    "duration" : 713
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ed2606b04bb4515",
+  "name" : "Confirmation Page Validating",
+  "time" : {
+    "start" : 1566421758006,
+    "stop" : 1566421758923,
+    "duration" : 917
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

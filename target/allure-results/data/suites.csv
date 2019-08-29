@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","core.AllureReportTest.SignUpTest","713","SignUp Page: Elemets Validation"
+"passed","core.AllureReportTest.ConfirmationTest","917","Confirmation: Elemets Validation"

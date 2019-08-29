@@ -1,0 +1,36 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "SignUp Page Validating",
+        "uid" : "470b40cc8bedd0a8",
+        "parentUid" : "1a6bc8532ed3e855fc832ee4e96b0764",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566421757187,
+          "stop" : 1566421757900,
+          "duration" : 713
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Confirmation Page Validating",
+        "uid" : "4ed2606b04bb4515",
+        "parentUid" : "1a6bc8532ed3e855fc832ee4e96b0764",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566421758006,
+          "stop" : 1566421758923,
+          "duration" : 917
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a6bc8532ed3e855fc832ee4e96b0764"
+    } ],
+    "uid" : "7e1dff7028ad53fad7abb983ae6cc28d"
+  } ]
+}
